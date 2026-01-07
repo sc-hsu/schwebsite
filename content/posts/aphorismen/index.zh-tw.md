@@ -2,7 +2,7 @@
 title = '人生智慧箴言'
 draft = false
 date = 2024-01-29
-tags = ["讀書心得", "叔本華", "哲學"]
+tags = ["叔本華", "哲學"]
 categories = ["閱讀筆記"]
 
 # --- SEO 專用設定 ---
