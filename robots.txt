@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://sc-hsu.github.io/schwebsite/sitemap.xml
+Sitemap: https://sc-hsu.com/sitemap.xml
