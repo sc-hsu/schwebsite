@@ -13,7 +13,7 @@ featureImageDescription = "心流書本封面"
 slug = "flow"
 +++
 
-![](featureImage.jpg)
+![](cover.jpg)
 
 # 《心流：最優體驗心理學》讀書筆記：掌控意識，重塑生活的幸福感
 
