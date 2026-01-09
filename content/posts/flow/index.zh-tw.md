@@ -8,7 +8,7 @@ categories = ["閱讀筆記"]
 description = "深入探討米哈里．契克森米哈伊的《心流：最優體驗心理學》。透過讀書筆記，解析如何透過挑戰與技能的平衡，掌控意識，在工作與生活中創造「最優體驗」與真正的幸福感。"
 keywords = ["心流", "Flow", "米哈里", "契克森米哈伊", "最優體驗", "心理學", "讀書筆記", "幸福", "專注", "自我成長"]
 
-featureImage = "featureImage.jpg"
+featureImage = "featureImage.png"
 featureImageDescription = "心流書本封面"
 slug = "flow"
 +++
