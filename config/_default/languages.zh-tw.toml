@@ -11,7 +11,7 @@ title = "Shen-Chih Hsu"
   dateFormat = "2 January 2006"
   # logo = "main.jpg"
   # secondaryLogo = "img/secondary-logo.png"
-  description = "Shen-Chih Hsu 徐珅鋕"
+  description = "Shen-Chih Hsu 徐珅鋕，這裡記錄一些心得及閱讀筆記。"
   copyright = "@2025 Shen-Chih Hsu 徐珅鋕"
 
 [params.author]
