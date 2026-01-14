@@ -1,18 +1,26 @@
-﻿+++
-title = '人生智慧箴言'
-draft = false
-date = 2024-01-29
-tags = ["叔本華", "哲學"]
-categories = ["閱讀筆記"]
+﻿---
+title : '人生智慧箴言'
+draft : false
+date : 2024-01-29
+tags :
+   - 叔本華
+   - 哲學
+categories :
+   - 閱讀筆記
+description : "重讀叔本華《人生智慧箴言》的讀書心得筆記。探討人的三大分類、痛苦與無聊的鐘擺理論，以及如何降低對他人看法的敏感度，尋求內心的平靜與幸福。"
+keywords :
+   - 叔本華
+   - 人生智慧箴言
+   - 幸福
+   - 哲學
+   - 讀書心得
+   - 痛苦與無聊
 
-description = "重讀叔本華《人生智慧箴言》的讀書心得筆記。探討人的三大分類、痛苦與無聊的鐘擺理論，以及如何降低對他人看法的敏感度，尋求內心的平靜與幸福。"
-keywords = ["叔本華", "人生智慧箴言", "幸福", "哲學", "讀書心得", "痛苦與無聊"]
+featureImage : "featureImage.png"
+featureImageDescription : "叔本華書本封面"
+slug : "schopenhauer-aphorisms-summary"
 
-featureImage = "featureImage.png"
-featureImageDescription = "叔本華書本封面"
-slug = "schopenhauer-aphorisms-summary"
-
-+++
+---
 
 
 ![](cover.jpg)

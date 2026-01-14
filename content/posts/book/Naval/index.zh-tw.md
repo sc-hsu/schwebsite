@@ -1,16 +1,24 @@
-﻿+++
-title = "納瓦爾寶典"
-draft = false
-date = 2024-02-05
-tags = ["納瓦爾寶典", "納瓦爾"]
-categories = ["閱讀筆記"]
-description = "財富不是靠運氣，而是靠「獨特知識」與「槓桿」。本文整理矽谷傳奇投資人 Naval Ravikant 的核心智慧，從創造財富的底層邏輯，到培養判斷力與快樂的技能。學會把自己商品化，拿回人生的自主權。"
-keywords = ["納瓦爾, 財富自由, 心智模式, 自我成長, 槓桿效應"]
-featureImage="featureImage.png"
-featureImageDescription= "A minimalist conceptual illustration representing 'Leverage' and 'Peace of Mind'. A silhouette of a person meditating in the center, surrounded by abstract glowing geometric representations of code, books, and compounding curves. Soft lighting, serene atmosphere, high definition digital art style."
-slug = "the-almanack-of-naval-ravikant"
+﻿---
+title : 納瓦爾寶典
+draft : false
+date : 2024-02-05
+tags : 
+   - 納瓦爾寶典
+   - 納瓦爾
+categories :
+   - 閱讀筆記
+description : "財富不是靠運氣，而是靠「獨特知識」與「槓桿」。本文整理矽谷傳奇投資人 Naval Ravikant 的核心智慧，從創造財富的底層邏輯，到培養判斷力與快樂的技能。學會把自己商品化，拿回人生的自主權。"
+keywords : 
+   - 納瓦爾
+   - 財富自由
+   - 心智模式
+   - 自我成長
+   - 槓桿效應
+featureImage : "featureImage.png"
+featureImageDescription : "A minimalist conceptual illustration representing 'Leverage' and 'Peace of Mind'. A silhouette of a person meditating in the center, surrounded by abstract glowing geometric representations of code, books, and compounding curves. Soft lighting, serene atmosphere, high definition digital art style."
+slug : "the-almanack-of-naval-ravikant"
 
-+++
+---
 
 ![](cover.jpg)
 
