@@ -17,7 +17,7 @@ enableStructuredBreadcrumbs = false
 
 replyByEmail = false
 
-# mainSections = ["posts"]
+mainSections = ["posts", "dev"]
 # robots = ""
 
 disableImageOptimization = false
