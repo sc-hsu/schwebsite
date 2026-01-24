@@ -5,15 +5,16 @@ tags : ["Swift", "C#"]
 categories : ["From C# to Swift"]
 description : "From C# to Swift - 01. The Basics"
 keywords : ["Swift vs C#", "iOS Development"]
-featureImage : "cover.png"
+featureImage : "cover.jpg"
 featureImageDescription : "From C# to Swift"
 slug : "from-csharp-to-swift/thebasics"
 ---
 
-![](cover.png)
+![](cover.jpg)
 
 
-> **從 C# 視角學習 Swift : [The Basic](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/thebasics)**
+**從 C# 視角學習 Swift**  <br>
+> [Swift : The Basic](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/thebasics)
 
 
 ## 常數與變數 (Constants and Variables)
