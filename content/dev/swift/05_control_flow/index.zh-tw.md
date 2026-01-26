@@ -7,7 +7,7 @@ description : "深入解析 Swift 的控制流程語法，涵蓋 For-In 迴圈�
 keywords : ["Swift vs C#", "iOS Development", "Pattern Matching", "Guard vs If", "Defer statement"]
 featureImage : "conver.jpg"
 featureImageDescription : "Swift 標誌與流程圖的抽象結合，象徵程式碼的執行路徑控制"
-slug : "from-csharp-to-swift/collection-types"
+slug : "from-csharp-to-swift/control-flosw"
 ---
 
 ![](cover.jpg)
