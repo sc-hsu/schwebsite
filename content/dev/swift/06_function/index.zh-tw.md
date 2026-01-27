@@ -1,8 +1,8 @@
 ﻿---
-title: "[Swift學習筆記] Functions - C# 開發者的視角"
+title : "[從C#到Swift] 06. Functions"
 date: 2026-01-27
-tags: ["Swift", "iOS", "C#", "Comparison", "Functions", "Argument Labels", "Tuples", "Closures"]
-categories: ["Swift Learning"]
+tags : ["Swift", "C#"]
+categories : ["From C# to Swift"]
 description: "本文深入解析 Swift 函式 (Functions) 的特性，並為 C# 開發者提供詳細對照。涵蓋參數標籤 (Argument Labels)、多重回傳值 (Tuples)、In-Out 參數以及函式作為一級公民 (First-class citizen) 的用法。透過 C# 視角分析語法差異，幫助你快速掌握 Swift 靈活的函式設計模式。"
 keywords: ["Swift vs C#", "iOS Development", "Swift Functions", "Argument Labels", "Function Types"]
 featureImage: "featureImage.png"
@@ -14,7 +14,7 @@ slug: "from-csharp-to-swift/functions"
 
 
 **從 C# 視角學習 Swift**  <br>
-> [Swift : Functions](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/controlflow)
+> [Swift : Functions](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/functions#Functions-With-Multiple-Parameters)
 
 ## 定義與呼叫函式 (Defining and Calling Functions)
 
