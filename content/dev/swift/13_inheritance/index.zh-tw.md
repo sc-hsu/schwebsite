@@ -5,7 +5,7 @@ tags : ["Swift", "C#"]
 categories : ["From C# to Swift"]
 description : "深入解析 Swift 的繼承機制，包含基礎類別定義、方法覆寫規則以及屬性觀察器的繼承應用。本文特別針對 C# 開發者，比較 Swift `override` 關鍵字的強制性、屬性覆寫的靈活度，以及 `final` 與 `sealed` 的語法對照，助你快速掌握 Swift 物件導向特性。"
 keywords : ["Swift vs C#", "iOS Development", "Inheritance", "Override", "Final Class", "Property Observers"]
-featureImage : "featureImage.png"
+featureImage : "cover.jpg"
 featureImageDescription : "Swift 類別繼承與覆寫機制概念圖"
 slug : "from-csharp-to-swift/inheritance"
 ---
