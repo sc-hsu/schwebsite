@@ -1,4 +1,5 @@
 ﻿---
+draft : true
 title : "[從C#到Swift] 13. Inheritance"
 date : 2026-01-31T14:00:00+08:00
 tags : ["Swift", "C#"]

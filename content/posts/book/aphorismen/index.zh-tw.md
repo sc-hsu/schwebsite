@@ -1,6 +1,6 @@
 ﻿---
 title : '人生智慧箴言'
-draft : false
+draft : true
 date : 2024-01-29
 tags :
    - 叔本華

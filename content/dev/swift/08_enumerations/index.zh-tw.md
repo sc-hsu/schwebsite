@@ -1,4 +1,5 @@
 ﻿---
+draft : true
 title : "[從C#到Swift] 08. Enumerations"
 date : 2026-01-28
 tags : ["Swift", "C#"]

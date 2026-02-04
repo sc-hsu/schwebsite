@@ -1,4 +1,5 @@
 ﻿---
+draft : true
 title : "[從C#到Swift] 09. Structures and Classes"
 date : 2026-01-29
 tags : ["Swift", "C#"]

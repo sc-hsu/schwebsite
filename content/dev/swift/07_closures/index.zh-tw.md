@@ -1,4 +1,5 @@
 ﻿---
+draft : true
 title : "[從C#到Swift] 07. Closures"
 date: 2026-01-27T18:00:00+08:00
 tags : ["Swift", "C#"]

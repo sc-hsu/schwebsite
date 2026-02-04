@@ -1,4 +1,5 @@
 ﻿---
+draft : true
 title : "[從C#到Swift] 12. Subscripts"
 date : 2026-01-31T12:00:00+08:00
 tags : ["Swift", "C#"]

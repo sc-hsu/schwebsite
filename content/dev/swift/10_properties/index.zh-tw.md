@@ -1,4 +1,5 @@
 ﻿---
+draft : true
 title : "[從C#到Swift] 10. Properties"
 date : 2026-01-30T14:00:00+08:00
 tags : ["Swift", "C#"]
